@@ -92,8 +92,7 @@ Me chamo Leandro Bezerra, tenho 19 anos e moro em Brasília - DF. Concluí o ens
 <img 
     align="left" 
     alt="GitHub Stats"
-    height="200" 
-    style="padding-right: 10px;" 
+    height="144" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrobbezerra&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=6" 
 />
 
